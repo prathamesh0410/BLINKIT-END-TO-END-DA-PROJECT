@@ -14,6 +14,10 @@ The main idea behind this project was to help Blinkit better understand:
 
 5)This kind of analysis can help improve business decisions, marketing strategies, and product placement.
 
+Snapshot of Dashboard
+<img width="1298" height="743" alt="Screenshot 2025-07-15 233910" src="https://github.com/user-attachments/assets/696aa7c7-6174-4d50-9822-331e24a1121e" />
+
+
 🛠 Tools Used
 SQL – for cleaning and preparing the raw data
 
